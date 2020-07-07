@@ -1,7 +1,7 @@
 {
   "scripts": {
     "commit": "git-cz",
-    "genlog": "conventional-changelog -p angular -i CHANGELOG.md -s"
+     "genlog": "conventional-changelog -p angular -i CHANGELOG.md -s"
   },
   "devDependencies": {
     "commitizen": "^4.1.2",
